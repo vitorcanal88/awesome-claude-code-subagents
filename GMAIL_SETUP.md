@@ -8,7 +8,32 @@ This guide explains how to configure and use the Gmail message search tool to re
 - Google Account with Gmail enabled
 - Access to Google Cloud Console
 
-## Setup Instructions
+## Quick Start with App Password
+
+### Fastest Setup (Recommended)
+
+1. **Generate App Password:**
+   - Go to: https://myaccount.google.com/apppasswords
+   - Select: **Mail** & **Windows Computer** (or your device)
+   - Copy the 16-character password
+
+2. **Run Setup Script:**
+   ```bash
+   python3 setup_gmail_auth.py
+   ```
+   - Enter your Gmail: `v.canal88@gmail.com`
+   - Enter the 16-char password when prompted (input is hidden)
+
+3. **Search Messages:**
+   ```bash
+   python3 search_gmail_messages_apppass.py
+   ```
+
+That's it! Your credentials are stored securely.
+
+---
+
+## Full Setup Instructions
 
 ### Step 1: Create a Google Cloud Project
 
