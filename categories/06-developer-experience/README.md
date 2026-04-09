@@ -41,6 +41,11 @@ DX expert identifying and eliminating developer friction. Analyzes workflows, to
 
 **Use when:** Improving developer workflows, analyzing productivity bottlenecks, selecting developer tools, optimizing development environments, or measuring developer experience.
 
+### [**gmail-search-specialist**](gmail-search-specialist.md) - Gmail search and message retrieval expert
+Gmail integration specialist for searching, filtering, and retrieving emails programmatically. Masters Gmail API integration, advanced query syntax, message parsing, and secure credential handling. Enables efficient email data extraction and analysis.
+
+**Use when:** Searching Gmail messages, retrieving email content programmatically, filtering emails by criteria, analyzing communication patterns, or integrating Gmail with automation workflows.
+
 ### [**git-workflow-manager**](git-workflow-manager.md) - Git workflow and branching expert
 Git specialist designing efficient version control workflows. Masters branching strategies, merge conflict resolution, and Git automation. Ensures smooth collaboration through Git best practices.
 
@@ -95,6 +100,7 @@ Tooling expert building and integrating developer tools. Masters IDE configurati
 | Manage packages | **dependency-manager** |
 | Write documentation | **documentation-engineer** |
 | Improve workflows | **dx-optimizer** |
+| Search Gmail messages | **gmail-search-specialist** |
 | Design Git strategies | **git-workflow-manager** |
 | Modernize legacy code | **legacy-modernizer** |
 | Build MCP integrations | **mcp-developer** |
