@@ -1,0 +1,15 @@
+# Gmail Kontatec - Python Dependencies
+# No external dependencies required - uses Python standard library
+# Tested with Python 3.7+
+
+# Standard library modules used:
+# - imaplib (IMAP4 protocol)
+# - email (Email parsing)
+# - json (JSON export)
+# - pathlib (File paths)
+# - getpass (Secure password input)
+# - datetime (Date/time handling)
+
+# Optional: for enhanced features (not required for basic use)
+# colorama==0.4.6  # Colored terminal output
+# python-dateutil==2.8.2  # Advanced date parsing
